@@ -1,1 +1,1 @@
-Implementing an agent to play pentago
+Implementing an agent to play pentago. A random simulator was used in the student player file.
